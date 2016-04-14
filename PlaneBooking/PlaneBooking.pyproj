@@ -25,6 +25,12 @@
     <Compile Include="assignment.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="BoardingCardCreate.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ChooseAndBook.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PlaneBooking.py" />
     <Compile Include="Temp.py">
       <SubType>Code</SubType>
