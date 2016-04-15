@@ -36,6 +36,14 @@
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="JavaScript\BrowserCheck.js" />
+    <Content Include="JavaScript\External.js" />
+    <Content Include="JSTest.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="JavaScript\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
