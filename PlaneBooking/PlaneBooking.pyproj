@@ -35,6 +35,9 @@
     <Compile Include="Temp.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Files.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="JavaScript\BrowserCheck.js" />
